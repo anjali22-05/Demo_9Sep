@@ -3,8 +3,8 @@ import { BrowserRouter as Router, Routes, Route, Link, Navigate } from 'react-ro
 
 // Import the components you created
 import Home from './components/Home';
-import Register from './components/Login';
-import Login from './components/Register';
+import Register from './components/Register';
+import Login from './components/Login';
 
 // A simple component to show the user is logged in
 const Dashboard = () => (
